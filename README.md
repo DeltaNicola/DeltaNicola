@@ -13,7 +13,7 @@
 
 ### Formazione
 <details></br>
-**Java - Back End Development**
+**Java - Back End Development** </br>
 Corso completo riguardante lo sviluppo Java </br>
 come scrivere un programma attraverso un linguaggio ad oggetti </br>
 come implementarlo in un'applicazione web client-server. </br>
